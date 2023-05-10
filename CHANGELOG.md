@@ -12,7 +12,6 @@ All notable changes to the "fs-sync" will be documented in this file.
 - Add `findFsEntriesSync` function to search a directory for files and subdirectories.
 - Add everything else necessary for the initial release.
 
-
 <!--
 See: https://common-changelog.org/
 
