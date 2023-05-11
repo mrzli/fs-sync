@@ -1,7 +1,7 @@
 import klaw from 'klaw-sync';
 import { FilePathStats, FindOptions, toKlawFindOptions } from '@gmjs/fs-shared';
 
-export function findFsEntriesSync(
+export function findFileSystemEntriesSync(
   directory: string,
   options?: FindOptions
 ): readonly FilePathStats[] {

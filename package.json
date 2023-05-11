@@ -1,6 +1,6 @@
 {
   "name": "@gmjs/fs-sync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sync file system utilities.",
   "author": {
     "name": "Goran Mržljak",

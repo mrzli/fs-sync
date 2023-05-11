@@ -44,7 +44,7 @@ npm install --save @gmjs/fs-sync
 
 ### Find
 
-- `findFsEntriesSync(directory: string, options?: FindOptions): readonly FilePathStats[]`
+- `findFileSystemEntriesSync(directory: string, options?: FindOptions): readonly FilePathStats[]`
   - Description - Search a directory for files. Search can be limited by depth.
   - Parameters
     - `directory: string` - The directory to search.

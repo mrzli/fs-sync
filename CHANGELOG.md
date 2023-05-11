@@ -4,6 +4,12 @@ All notable changes to the "fs-sync" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.2] - 2023-05-11
+
+### Changed
+
+- **Breaking:** Rename `findFsEntriesSync` to `findFileSystemEntriesSync`.
+
 ## [0.0.1] - 2023-05-10
 
 ### Added
