@@ -4,6 +4,17 @@ All notable changes to the "fs-sync" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.3] - 2023-08-19
+
+### Changed
+
+- Update dependencies.
+- Update publishing process.
+
+### Added
+
+- Add `ensureDirSync` function.
+
 ## [0.0.2] - 2023-05-11
 
 ### Changed

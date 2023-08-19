@@ -21,6 +21,10 @@ export function createFileSync(filePath: string): void {
   fs.createFileSync(filePath);
 }
 
-export function existsSync(filePath: string): boolean {
-  return fs.pathExistsSync(filePath);
+export function existsSync(path: string): boolean {
+  return fs.pathExistsSync(path);
+}
+
+export function ensureDirSync(path: string): void {
+  return fs.ensureDirSync(path);
 }
